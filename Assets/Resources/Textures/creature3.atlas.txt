@@ -1,0 +1,635 @@
+
+creature3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 114
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+1_back
+  rotate: false
+  xy: 349, 275
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 82, 114
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 252, 363
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 308, 274
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 164, 307
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 237, 150
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+beak
+  rotate: false
+  xy: 153, 2
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+blue_chick_body
+  rotate: false
+  xy: 301, 452
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+blue_chick_head
+  rotate: false
+  xy: 252, 325
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+blue_chick_leg1_1
+  rotate: false
+  xy: 476, 472
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+blue_chick_leg1_2
+  rotate: false
+  xy: 218, 177
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+blue_chick_leg1_f1
+  rotate: false
+  xy: 171, 350
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+blue_chick_leg1_f2
+  rotate: false
+  xy: 237, 139
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+blue_chick_leg2_1
+  rotate: false
+  xy: 349, 235
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+blue_chick_leg2_2
+  rotate: false
+  xy: 264, 145
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+blue_chick_leg2_f1
+  rotate: false
+  xy: 412, 246
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+blue_chick_leg2_f2
+  rotate: false
+  xy: 235, 103
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+blue_chick_low_jaw
+  rotate: false
+  xy: 304, 161
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+blue_chick_neck_01
+  rotate: false
+  xy: 296, 183
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+blue_chick_neck_02
+  rotate: false
+  xy: 409, 281
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+blue_chick_neck_03
+  rotate: false
+  xy: 439, 311
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+blue_chick_neck_04
+  rotate: false
+  xy: 362, 336
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+blue_chick_tail
+  rotate: false
+  xy: 2, 45
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+blue_chick_tongue
+  rotate: false
+  xy: 240, 175
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+blue_chick_wing1_a
+  rotate: false
+  xy: 303, 332
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+blue_chick_wing1_b
+  rotate: false
+  xy: 180, 144
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+blue_chick_wing2_a
+  rotate: false
+  xy: 303, 384
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+blue_chick_wing2_b
+  rotate: false
+  xy: 164, 198
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+blue_chick_wing3_a
+  rotate: false
+  xy: 252, 274
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+blue_chick_wing3_b
+  rotate: false
+  xy: 180, 98
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+blue_chick_wing4_a
+  rotate: false
+  xy: 360, 384
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+blue_chick_wing4_b
+  rotate: false
+  xy: 242, 204
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+blue_chick_wing5_a
+  rotate: false
+  xy: 2, 5
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+blue_chick_wing5_b
+  rotate: false
+  xy: 307, 236
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+blue_chick_wing6_a
+  rotate: false
+  xy: 140, 113
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+blue_chick_wing6_b
+  rotate: false
+  xy: 126, 38
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+blue_chick_wing7_a
+  rotate: false
+  xy: 201, 207
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+blue_chick_wing7_b
+  rotate: false
+  xy: 171, 44
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+blue_chick_wing8_a
+  rotate: false
+  xy: 448, 395
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+blue_chick_wing8_b
+  rotate: false
+  xy: 101, 2
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+blue_chick_wing9_a
+  rotate: false
+  xy: 448, 433
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+blue_chick_wing9_b
+  rotate: false
+  xy: 248, 236
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 380, 415
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 171, 361
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 171, 103
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+cover2
+  rotate: false
+  xy: 2, 190
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 2, 346
+  size: 167, 164
+  orig: 167, 164
+  offset: 0, 0
+  index: -1
+ice_beast_armor_1
+  rotate: false
+  xy: 171, 433
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+ice_beast_armor_1_back
+  rotate: false
+  xy: 415, 384
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+ice_beast_armor_2
+  rotate: false
+  xy: 194, 266
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+ice_beast_armor_2_back
+  rotate: false
+  xy: 240, 188
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+ice_beast_body
+  rotate: false
+  xy: 380, 472
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+ice_beast_ear
+  rotate: false
+  xy: 391, 276
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+ice_beast_head
+  rotate: false
+  xy: 444, 339
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+ice_beast_leg1_1
+  rotate: false
+  xy: 235, 114
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+ice_beast_leg1_2
+  rotate: false
+  xy: 409, 302
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ice_beast_leg2_1
+  rotate: false
+  xy: 412, 257
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+ice_beast_leg2_2
+  rotate: false
+  xy: 164, 262
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+ice_beast_leg3_1
+  rotate: false
+  xy: 480, 348
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+ice_beast_leg3_2
+  rotate: false
+  xy: 67, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+ice_beast_leg4_1
+  rotate: false
+  xy: 480, 329
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+ice_beast_leg4_2
+  rotate: false
+  xy: 335, 196
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+ice_beast_low_jaw
+  rotate: false
+  xy: 416, 225
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+ice_beast_low_jaw_back
+  rotate: false
+  xy: 470, 311
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+ice_beast_tail
+  rotate: false
+  xy: 296, 201
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+larva_arm1_1
+  rotate: false
+  xy: 398, 219
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+larva_arm1_2
+  rotate: false
+  xy: 219, 108
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+larva_arm1_3
+  rotate: false
+  xy: 391, 288
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+larva_arm2_1
+  rotate: false
+  xy: 278, 179
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+larva_arm2_2
+  rotate: false
+  xy: 385, 241
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+larva_arm3_1
+  rotate: false
+  xy: 469, 284
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+larva_arm3_2
+  rotate: false
+  xy: 369, 198
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+larva_arm3_3
+  rotate: false
+  xy: 210, 50
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+larva_arm4_1
+  rotate: false
+  xy: 286, 154
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+larva_arm4_2
+  rotate: false
+  xy: 385, 207
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+larva_arm5_1
+  rotate: false
+  xy: 199, 3
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+larva_arm5_2
+  rotate: false
+  xy: 199, 19
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+larva_arm6_1
+  rotate: false
+  xy: 398, 203
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+larva_arm6_2
+  rotate: false
+  xy: 214, 25
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+larva_head1
+  rotate: false
+  xy: 199, 299
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+larva_head2
+  rotate: false
+  xy: 68, 39
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+larva_hil1_1
+  rotate: false
+  xy: 443, 284
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+larva_hil1_2
+  rotate: false
+  xy: 398, 246
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+larva_hil1_3
+  rotate: false
+  xy: 360, 416
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+larva_hil2_1
+  rotate: false
+  xy: 487, 368
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+larva_hil2_2
+  rotate: false
+  xy: 497, 302
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+larva_hil2_3
+  rotate: false
+  xy: 218, 144
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+saliva
+  rotate: false
+  xy: 407, 346
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 445, 370
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1

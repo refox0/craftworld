@@ -1,0 +1,6 @@
+Language = Chinese
+
+Chinese = 中文
+
+
+
